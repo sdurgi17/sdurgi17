@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi, I'm Srikar 👋
 
-<!--
-**sdurgi17/sdurgi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run Pinnaclecode Technologies, a software consultancy focused on delivering high-quality engineering solutions for companies in sports, media, and emerging tech.
 
-Here are some ideas to get you started:
+💼 Founder & Principal Consultant at Pinnaclecode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 I work closely with non-technical teams and help them turn ideas into real, scalable products
+
+🚀 Strong focus on practical engineering, clarity of thought, and long-term partnerships
+
+🌐 Website: https://pinnaclecode.tech
+
+🔗 LinkedIn: https://www.linkedin.com/in/srikar-bhargav-durgi-81869773/
+
+If you're looking for engineering leadership, product development support, or a reliable build partner, feel free to reach out.

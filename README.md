@@ -8,7 +8,8 @@ I run Pinnaclecode Technologies, a software consultancy focused on delivering hi
 
 🚀 Strong focus on practical engineering, clarity of thought, and long-term partnerships
 
-🌐 Website: https://pinnaclecode.tech
+🌐 Website: https://srikardurgi.com 
+💼 My Consultancy: https://pinnaclecode.tech
 
 🔗 LinkedIn: https://www.linkedin.com/in/srikar-bhargav-durgi-81869773/
 
